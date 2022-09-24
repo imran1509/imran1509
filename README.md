@@ -1,5 +1,4 @@
 ### 👋 Hi, I’m Mohd Imran
-- 👋 Hi, I’m @imran1509
 - 👀 I’m interested in woring with community and learn from them, open source contribution.
 - :skier: I'm currently working with Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
 - 🌱 I’m currently learning Python and Go language.
