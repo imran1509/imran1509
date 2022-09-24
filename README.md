@@ -32,6 +32,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran1509&" alt="imran1509" /></p>
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
 
 <!---
 imran1509/imran1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
