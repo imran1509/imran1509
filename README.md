@@ -11,6 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS &lpar; Domain Name System &rpar;](https://imransaifi.hashnode.dev/dns-domain-name-system)
+- [OSI Model in Computer Networking &lpar; Structure of Network&rpar;](https://imransaifi.hashnode.dev/osi-model-in-computer-networking-structure-of-network)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
