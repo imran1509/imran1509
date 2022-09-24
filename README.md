@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mohd Imran
-- 👀 I’m interested in woring with community and learn from them, open source contribution.
+- 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
 - :skier: I'm currently working with Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
 - 🌱 I’m currently learning Python and Go language.
 - 💞️ I’m looking to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
