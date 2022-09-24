@@ -34,6 +34,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#5451](https://github.com/EddieHubCommunity/support/issues/5451) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+<!--END_SECTION:activity-->
 
 
 <!---
