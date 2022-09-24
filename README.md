@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran1509&label=Profile%20views&color=0e75b6&style=flat" alt="imran1509" /> </p>
 
-### Blogs posts
+### My latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [DNS &lpar; Domain Name System &rpar;](https://imransaifi.hashnode.dev/dns-domain-name-system)
 - [OSI Model in Computer Networking &lpar; Structure of Network&rpar;](https://imransaifi.hashnode.dev/osi-model-in-computer-networking-structure-of-network)
