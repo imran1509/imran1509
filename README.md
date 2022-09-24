@@ -7,7 +7,6 @@
 - 💬 Ask me about **DevOps, Linux-Ubuntu, Kubernetes, Docker, Ansible, Jenkins, CI/CD, Bash, Shell**
 - 📫 Reach out to me at **iimransaifi1509@gmail.com**
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran1509&label=Profile%20views&color=0e75b6&style=flat" alt="imran1509" /> </p>
 
 ### Blogs posts
