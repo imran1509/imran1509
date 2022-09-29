@@ -33,7 +33,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5451](https://github.com/EddieHubCommunity/support/issues/5451) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#1830](https://github.com/EddieHubCommunity/LinkFree/pull/1830) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 
