@@ -34,7 +34,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1830](https://github.com/EddieHubCommunity/LinkFree/pull/1830) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#232](https://github.com/ykdojo/defaang/issues/232) in [ykdojo/defaang](https://github.com/ykdojo/defaang)
 <!--END_SECTION:activity-->
 
 
