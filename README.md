@@ -34,7 +34,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/133) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. 🗣 Commented on [#232](https://github.com/ykdojo/defaang/issues/232) in [ykdojo/defaang](https://github.com/ykdojo/defaang)
 <!--END_SECTION:activity-->
 
 
