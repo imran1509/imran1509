@@ -34,7 +34,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/ykdojo/defaang/issues/232) in [ykdojo/defaang](https://github.com/ykdojo/defaang)
+1. 🗣 Commented on [#31](https://github.com/csivitu/WebDice/issues/31) in [csivitu/WebDice](https://github.com/csivitu/WebDice)
 <!--END_SECTION:activity-->
 
 
