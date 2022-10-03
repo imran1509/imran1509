@@ -34,7 +34,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/csivitu/WebDice/issues/31) in [csivitu/WebDice](https://github.com/csivitu/WebDice)
+1. 🗣 Commented on [#133](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/133) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 <!--END_SECTION:activity-->
 
 
