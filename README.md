@@ -41,7 +41,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5782](https://github.com/EddieHubCommunity/support/issues/5782) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#92](https://github.com/keploy/docs/issues/92) in [keploy/docs](https://github.com/keploy/docs)
 <!--END_SECTION:activity-->
 
 
