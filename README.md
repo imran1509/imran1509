@@ -3,7 +3,7 @@
 - :skier: I'm currently working with Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
 - 🌱 I’m currently learning Python and Go language.
 - 💞️ I’m looking to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
-- 📝 I regularly write articles on [https://imransaifi.hashnode.dev/](https://imransaifi.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://imransaifi.hashnode.dev/)
 - 💬 Ask me about **DevOps, Linux-Ubuntu, Kubernetes, Docker, Ansible, Jenkins, CI/CD, Bash, Shell**
 - 📫 Reach out to me at **iimransaifi1509@gmail.com**
 
