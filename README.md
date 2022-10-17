@@ -41,7 +41,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/keploy/docs/issues/92) in [keploy/docs](https://github.com/keploy/docs)
+1. 🗣 Commented on [#4](https://github.com/geeky-developer/shopping-cart/issues/4) in [geeky-developer/shopping-cart](https://github.com/geeky-developer/shopping-cart)
 <!--END_SECTION:activity-->
 
 
