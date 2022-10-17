@@ -41,7 +41,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/geeky-developer/shopping-cart/issues/4) in [geeky-developer/shopping-cart](https://github.com/geeky-developer/shopping-cart)
+1. 🗣 Commented on [#5782](https://github.com/EddieHubCommunity/support/issues/5782) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 
