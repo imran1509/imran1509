@@ -33,12 +33,6 @@
 
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran1509&show_icons=true&locale=en" alt="imran1509" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran1509&" alt="imran1509" /></p>
-
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5782](https://github.com/EddieHubCommunity/support/issues/5782) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
