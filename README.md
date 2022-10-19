@@ -16,6 +16,7 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Security Services](https://imransaifi.hashnode.dev/aws-security-services)
 - [Types of EC2 Instances in AWS](https://imransaifi.hashnode.dev/types-of-ec2-instances-in-aws)
 - [Cloud Service Models in Cloud Computing](https://imransaifi.hashnode.dev/cloud-service-models-in-cloud-computing)
 - [DNS &lpar; Domain Name System &rpar;](https://imransaifi.hashnode.dev/dns-domain-name-system)
