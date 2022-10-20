@@ -41,7 +41,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/201) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. 🗣 Commented on [#39](https://github.com/crescentpartha/CheatSheets-for-Developers/issues/39) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
 <!--END_SECTION:activity-->
 
 
