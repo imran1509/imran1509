@@ -41,7 +41,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5814](https://github.com/EddieHubCommunity/support/issues/5814) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#105](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/105) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
 <!--END_SECTION:activity-->
 
 
