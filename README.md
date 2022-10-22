@@ -41,7 +41,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/108) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
+1. 💪 Opened PR [#126](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/126) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
 <!--END_SECTION:activity-->
 
 
