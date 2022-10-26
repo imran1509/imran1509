@@ -16,11 +16,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to give AWS EC2 Instance permissions with IAM Roles and Hardcoded Keys?](https://imransaifi.hashnode.dev/how-to-give-aws-ec2-instance-permissions-with-iam-roles-and-hardcoded-keys)
 - [AWS Security Services](https://imransaifi.hashnode.dev/aws-security-services)
 - [Types of EC2 Instances in AWS](https://imransaifi.hashnode.dev/types-of-ec2-instances-in-aws)
 - [Cloud Service Models in Cloud Computing](https://imransaifi.hashnode.dev/cloud-service-models-in-cloud-computing)
 - [DNS &lpar; Domain Name System &rpar;](https://imransaifi.hashnode.dev/dns-domain-name-system)
-- [OSI Model in Computer Networking &lpar; Structure of Network&rpar;](https://imransaifi.hashnode.dev/osi-model-in-computer-networking-structure-of-network)
 <!-- BLOG-POST-LIST:END -->
 
 
