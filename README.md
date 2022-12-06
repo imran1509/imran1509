@@ -16,11 +16,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [One on One mentoring session with Kunal Kushwaha](https://imransaifi.hashnode.dev/one-on-one-mentoring-session-with-kunal-kushwaha)
 - [My First KubeCon Experience &lpar; KubeCon + CloudNativeCon North America 2022 &rpar;](https://imransaifi.hashnode.dev/my-first-kubecon-experience-kubecon-cloudnativecon-north-america-2022)
 - [How to give AWS EC2 Instance permissions with IAM Roles and Hardcoded Keys?](https://imransaifi.hashnode.dev/how-to-give-aws-ec2-instance-permissions-with-iam-roles-and-hardcoded-keys)
 - [AWS Security Services](https://imransaifi.hashnode.dev/aws-security-services)
 - [Types of EC2 Instances in AWS](https://imransaifi.hashnode.dev/types-of-ec2-instances-in-aws)
-- [Cloud Service Models in Cloud Computing](https://imransaifi.hashnode.dev/cloud-service-models-in-cloud-computing)
 <!-- BLOG-POST-LIST:END -->
 
 
