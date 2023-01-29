@@ -69,8 +69,6 @@
 
 <br/>  
 
-[![An image of @imran1509's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imran1509)](https://holopin.io/@imran1509)
-
 
 <!---
 imran1509/imran1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
