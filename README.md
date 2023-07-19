@@ -16,11 +16,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Power of Amazon VPC: A Deep Dive into Amazon Virtual Private Cloud](https://imransaifi.hashnode.dev/exploring-the-power-of-amazon-vpc-a-deep-dive-into-amazon-virtual-private-cloud)
 - [Istio and Service mesh explained - What, Why &amp; How?](https://imransaifi.hashnode.dev/istio-and-service-mesh-explained-what-why-how)
 - [The Top AWS Services Every DevOps Pro Needs in Their Toolkit](https://imransaifi.hashnode.dev/the-top-aws-services-every-devops-pro-needs-in-their-toolkit)
 - [Getting started with Microservices : What, Why and How](https://imransaifi.hashnode.dev/getting-started-with-microservices-what-why-and-how)
 - [My Best Community Experience : EddieHub &amp; GrowInCommunity](https://imransaifi.hashnode.dev/my-best-community-experience-eddiehub-growincommunity)
-- [Linkfree - It&#39;s more than just a link](https://imransaifi.hashnode.dev/linkfree-its-more-than-just-a-link)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
