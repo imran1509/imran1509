@@ -16,11 +16,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Amazon RDS: A Comprehensive Guide to Managed Relational Databases](https://imransaifi.hashnode.dev/unleashing-the-power-of-amazon-rds-a-comprehensive-guide-to-managed-relational-databases)
 - [Amazon S3: Empowering the Cloud Storage Revolution](https://imransaifi.hashnode.dev/amazon-s3-empowering-the-cloud-storage-revolution)
 - [Amazon EC2: A Powerful Cloud Computing Solution](https://imransaifi.hashnode.dev/amazon-ec2-a-powerful-cloud-computing-solution)
 - [Exploring the Power of Amazon VPC: A Deep Dive into Amazon Virtual Private Cloud](https://imransaifi.hashnode.dev/exploring-the-power-of-amazon-vpc-a-deep-dive-into-amazon-virtual-private-cloud)
 - [Istio and Service mesh explained - What, Why &amp; How?](https://imransaifi.hashnode.dev/istio-and-service-mesh-explained-what-why-how)
-- [The Top AWS Services Every DevOps Pro Needs in Their Toolkit](https://imransaifi.hashnode.dev/the-top-aws-services-every-devops-pro-needs-in-their-toolkit)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
