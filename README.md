@@ -67,11 +67,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Accelerating Development: Unraveling the Magic of AWS CodeBuild in Cloud-Based Innovation](https://imransaifi.hashnode.dev/accelerating-development-unraveling-the-magic-of-aws-codebuild-in-cloud-based-innovation)
 - [From Conflict to Cohesion: How DevOps Bridges the Gap between Development and Operations Teams](https://imransaifi.hashnode.dev/from-conflict-to-cohesion-how-devops-bridges-the-gap-between-development-and-operations-teams)
 - [Exploring the Power of AWS CodeCommit: A Comprehensive Guide](https://imransaifi.hashnode.dev/exploring-the-power-of-aws-codecommit-a-comprehensive-guide)
 - [Introduction to AWS IAM: Securing Your Cloud Infrastructure](https://imransaifi.hashnode.dev/introduction-to-aws-iam-securing-your-cloud-infrastructure)
 - [Unleashing the Power of Amazon RDS: A Comprehensive Guide to Managed Relational Databases](https://imransaifi.hashnode.dev/unleashing-the-power-of-amazon-rds-a-comprehensive-guide-to-managed-relational-databases)
-- [Amazon S3: Empowering the Cloud Storage Revolution](https://imransaifi.hashnode.dev/amazon-s3-empowering-the-cloud-storage-revolution)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
