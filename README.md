@@ -67,11 +67,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is DevOps Dead? Debunking the Myth and Embracing the Evolution](https://imransaifi.hashnode.dev/is-devops-dead-debunking-the-myth-and-embracing-the-evolution)
 - [Accelerating Development: Unraveling the Magic of AWS CodeBuild in Cloud-Based Innovation](https://imransaifi.hashnode.dev/accelerating-development-unraveling-the-magic-of-aws-codebuild-in-cloud-based-innovation)
 - [From Conflict to Cohesion: How DevOps Bridges the Gap between Development and Operations Teams](https://imransaifi.hashnode.dev/from-conflict-to-cohesion-how-devops-bridges-the-gap-between-development-and-operations-teams)
 - [Exploring the Power of AWS CodeCommit: A Comprehensive Guide](https://imransaifi.hashnode.dev/exploring-the-power-of-aws-codecommit-a-comprehensive-guide)
 - [Introduction to AWS IAM: Securing Your Cloud Infrastructure](https://imransaifi.hashnode.dev/introduction-to-aws-iam-securing-your-cloud-infrastructure)
-- [Unleashing the Power of Amazon RDS: A Comprehensive Guide to Managed Relational Databases](https://imransaifi.hashnode.dev/unleashing-the-power-of-amazon-rds-a-comprehensive-guide-to-managed-relational-databases)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
