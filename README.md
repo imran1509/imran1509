@@ -67,11 +67,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS ElastiCache: Accelerating Your Applications with In-Memory Caching](https://imransaifi.hashnode.dev/aws-elasticache-accelerating-your-applications-with-in-memory-caching)
 - [Revolutionize Your Data Management with AWS DynamoDB Unleash the Power of NoSQL](https://imransaifi.hashnode.dev/revolutionize-your-data-management-with-aws-dynamodb-unleash-the-power-of-nosql)
 - [Demystifying Amazon Route 53: A Comprehensive Guide to Navigating the Digital Highway](https://imransaifi.hashnode.dev/demystifying-amazon-route-53-a-comprehensive-guide-to-navigating-the-digital-highway)
 - [Streamlining Software Delivery with AWS CodePipeline](https://imransaifi.hashnode.dev/streamlining-software-delivery-with-aws-codepipeline)
 - [Mastering Continuous Deployment with AWS CodeDeploy: A Comprehensive Guide](https://imransaifi.hashnode.dev/mastering-continuous-deployment-with-aws-codedeploy-a-comprehensive-guide)
-- [Is DevOps Dead? Debunking the Myth and Embracing the Evolution](https://imransaifi.hashnode.dev/is-devops-dead-debunking-the-myth-and-embracing-the-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
