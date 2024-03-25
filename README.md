@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohd Imran
 
-![](https://github.com/imran1509/imran1509/blob/main/final.png)
+![]([https://github.com/imran1509/imran1509/blob/main/final.png](https://github.com/imran1509/imran1509/blob/main/new%20speaker%20banner.png))
 
 
 
