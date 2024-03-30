@@ -5,13 +5,13 @@
 
 
 - 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
-- :skier: I'm currently working with Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
+- :skier: I'm into DevOps, Golang development and Developer relation.
 - :skier: I'm an AWS Community builder.
 - 🌱 I’m currently learning Go language.
 - 🌱 I believe in learning in public and helping others enter into tech and start their journey.
 - 💞️ I’m looking to collaborate on GitHub and open source projects related to cloud computing and cloud native.
 - 📝 I regularly write articles on [Hashnode](https://imransaifi.hashnode.dev/)
-- 💬 Ask me about **DevOps,Communities, Cloud-Native, Linux-Ubuntu, Kubernetes, Docker, Ansible, Jenkins, CI/CD, Bash, Shell**
+- 💬 Ask me about **DevOps,Communities, Cloud-Native, AWS, Go development, DevRel**
 - 📫 Reach out to me at **iimransaifi1509@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran1509&label=Profile%20views&color=0e75b6&style=flat" alt="imran1509" /> </p>
