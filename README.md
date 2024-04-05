@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Go language.
 - 🌱 I believe in learning in public and helping others enter into tech and start their journey.
 - 💞️ I’m looking to collaborate on GitHub and open source projects related to cloud computing and cloud native.
-- 📝 I regularly write articles on [Hashnode](https://imransaifi.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://imransaifi.hashnode.dev/) and [Dev.to](https://dev.to/imransaifi)
 - 💬 Ask me about **DevOps,Communities, Cloud-Native, AWS, Go development, DevRel**
 - 📫 Reach out to me at **iimransaifi1509@gmail.com**
 
