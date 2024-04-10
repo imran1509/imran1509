@@ -67,11 +67,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13 Mistakes you should not make in Open Source](https://imransaifi.hashnode.dev/13-mistakes-you-should-not-make-in-open-source)
 - [A Beginners Guide to Amazon ECS: Getting Started with Container Orchestration](https://imransaifi.hashnode.dev/a-beginners-guide-to-amazon-ecs-getting-started-with-container-orchestration)
 - [How to Sign Your Commits: A Guide for Git Users](https://imransaifi.hashnode.dev/how-to-sign-your-commits-a-guide-for-git-users)
 - [Navigating the Cloud with Amazon ECR: A Comprehensive Guide](https://imransaifi.hashnode.dev/navigating-the-cloud-with-amazon-ecr-a-comprehensive-guide)
 - [Unleashing the Power of AWS CloudFormation: A Comprehensive Guide](https://imransaifi.hashnode.dev/unleashing-the-power-of-aws-cloudformation-a-comprehensive-guide)
-- [AWS ElastiCache: Accelerating Your Applications with In-Memory Caching](https://imransaifi.hashnode.dev/aws-elasticache-accelerating-your-applications-with-in-memory-caching)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
