@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohd Imran
+# 👋 Hi, I’m Mohammad Imran
 
 ![](https://github.com/imran1509/imran1509/blob/main/new%20speaker%20banner.png)
 
