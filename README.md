@@ -67,11 +67,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pieces for Developers: Revolutionize Your Coding Workflow with AI and Smart Organization](https://imransaifi.hashnode.dev/pieces-for-developers-revolutionize-your-coding-workflow-with-ai-and-smart-organization)
-- [Step-by-Step Guide to Creating a Kubernetes User and Adding It to a Kubeconfig File &lpar;RBAC&rpar;](https://imransaifi.hashnode.dev/step-by-step-guide-to-creating-a-kubernetes-user-and-adding-it-to-a-kubeconfig-file-rbac)
-- [The Ins and Outs of the Kubeconfig File in Kubernetes: A Complete Breakdown](https://imransaifi.hashnode.dev/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown)
-- [Master the Art of Manual Container Creation in Linux : No Docker Needed](https://imransaifi.hashnode.dev/master-the-art-of-manual-container-creation-in-linux-no-docker-needed)
-- [13 Mistakes you should not make in Open Source](https://imransaifi.hashnode.dev/13-mistakes-you-should-not-make-in-open-source)
+- [Amazon EKS: Simplifying Kubernetes for the Cloud](https://dev.to/aws-builders/amazon-eks-simplifying-kubernetes-for-the-cloud-3keo)
+- [Pieces for Developers: Revolutionize Your Coding Workflow with AI and Smart Organization](https://dev.to/imransaifi/pieces-for-developers-revolutionize-your-coding-workflow-with-ai-and-smart-organization-12i0)
+- [Step-by-Step Guide to Creating a Kubernetes User and Adding It to a Kubeconfig File &lpar;RBAC&rpar;](https://dev.to/imransaifi/step-by-step-guide-to-creating-a-kubernetes-user-and-adding-it-to-a-kubeconfig-file-rbac-3eo3)
+- [The Ins and Outs of the Kubeconfig File in Kubernetes: A Complete Breakdown](https://dev.to/imransaifi/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown-56f4)
+- [Master the Art of Manual Container Creation in Linux : No Docker Needed](https://dev.to/imransaifi/master-the-art-of-manual-container-creation-in-linux-no-docker-needed-3gg5)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
