@@ -67,11 +67,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Amazon CloudWatch: Monitoring Your Cloud Like a Pro](https://dev.to/aws-builders/a-beginners-guide-to-amazon-cloudwatch-monitoring-your-cloud-like-a-pro-3aje)
 - [Top 10 Linux Commands Every DevOps Engineer Should Know](https://dev.to/imransaifi/top-10-linux-commands-every-devops-engineer-should-know-df8)
 - [Amazon EKS: Simplifying Kubernetes for the Cloud](https://dev.to/aws-builders/amazon-eks-simplifying-kubernetes-for-the-cloud-3keo)
 - [Pieces for Developers: Revolutionize Your Coding Workflow with AI and Smart Organization](https://dev.to/imransaifi/pieces-for-developers-revolutionize-your-coding-workflow-with-ai-and-smart-organization-12i0)
 - [Step-by-Step Guide to Creating a Kubernetes User and Adding It to a Kubeconfig File &lpar;RBAC&rpar;](https://dev.to/imransaifi/step-by-step-guide-to-creating-a-kubernetes-user-and-adding-it-to-a-kubeconfig-file-rbac-3eo3)
-- [The Ins and Outs of the Kubeconfig File in Kubernetes: A Complete Breakdown](https://dev.to/imransaifi/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown-56f4)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
