@@ -67,11 +67,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS CloudTrail Logs : Boost Your Security Now](https://dev.to/aws-builders/aws-cloudtrail-logs-boost-your-security-now-5fnh)
 - [Become a Bash Scripting Pro in 10 Minutes: A Quick Guide for Beginners](https://dev.to/imransaifi/become-a-bash-scripting-pro-in-10-minutes-a-quick-guide-for-beginners-4684)
 - [A Beginner’s Guide to Amazon CloudWatch: Monitoring Your Cloud Like a Pro](https://dev.to/aws-builders/a-beginners-guide-to-amazon-cloudwatch-monitoring-your-cloud-like-a-pro-3aje)
 - [Top 10 Linux Commands Every DevOps Engineer Should Know](https://dev.to/imransaifi/top-10-linux-commands-every-devops-engineer-should-know-df8)
 - [Amazon EKS: Simplifying Kubernetes for the Cloud](https://dev.to/aws-builders/amazon-eks-simplifying-kubernetes-for-the-cloud-3keo)
-- [Pieces for Developers: Revolutionize Your Coding Workflow with AI and Smart Organization](https://dev.to/imransaifi/pieces-for-developers-revolutionize-your-coding-workflow-with-ai-and-smart-organization-12i0)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
