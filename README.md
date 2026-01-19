@@ -69,9 +69,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Conversations, Code, and Chai: My KubeCon + CloudNativeCon India 2025 Experience](https://dev.to/imransaifi/conversations-code-and-chai-my-kubecon-cloudnativecon-india-2025-experience-3lda)
 - [AWS CloudTrail Logs : Boost Your Security Now](https://dev.to/aws-builders/aws-cloudtrail-logs-boost-your-security-now-5fnh)
+- [A Beginner’s Guide to AWS CloudWatch: Monitoring Your Cloud Like a Pro](https://dev.to/imransaifi/a-beginners-guide-to-aws-cloudwatch-monitoring-your-cloud-like-a-pro-4hcp)
 - [Become a Bash Scripting Pro in 10 Minutes: A Quick Guide for Beginners](https://dev.to/imransaifi/become-a-bash-scripting-pro-in-10-minutes-a-quick-guide-for-beginners-4684)
 - [A Beginner’s Guide to Amazon CloudWatch: Monitoring Your Cloud Like a Pro](https://dev.to/aws-builders/a-beginners-guide-to-amazon-cloudwatch-monitoring-your-cloud-like-a-pro-3aje)
-- [Top 10 Linux Commands Every DevOps Engineer Should Know](https://dev.to/imransaifi/top-10-linux-commands-every-devops-engineer-should-know-df8)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
