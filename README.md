@@ -67,11 +67,11 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive into AWS Global Accelerator vs CloudFront vs Route53 for Global Applications](https://dev.to/aws-builders/deep-dive-into-aws-global-accelerator-vs-cloudfront-vs-route53-for-global-applications-4j55)
 - [Building a Distributed Tracing Platform on AWS using OpenTelemetry and Grafana Tempo](https://dev.to/aws-builders/building-a-distributed-tracing-platform-on-aws-using-opentelemetry-and-grafana-tempo-4d40)
 - [Advanced Traffic Management Patterns using AWS CloudFront and Lambda@Edge](https://dev.to/aws-builders/advanced-traffic-management-patterns-using-aws-cloudfront-and-lambdaedge-1l9e)
 - [AWS Lambda: A Practical Guide to Serverless Compute on AWS](https://dev.to/aws-builders/aws-lambda-a-practical-guide-to-serverless-compute-on-aws-2lij)
 - [Conversations, Code, and Chai: My KubeCon + CloudNativeCon India 2025 Experience](https://dev.to/imransaifi/conversations-code-and-chai-my-kubecon-cloudnativecon-india-2025-experience-3lda)
-- [AWS CloudTrail Logs : Boost Your Security Now](https://dev.to/aws-builders/aws-cloudtrail-logs-boost-your-security-now-5fnh)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
